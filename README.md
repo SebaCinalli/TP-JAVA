@@ -9,8 +9,8 @@
 
 ### Repositorios
 
-- [Frontend App]()
-- [Backend app]()
+- [Frontend App](https://github.com/nanosalvu11/Java-FrontEnd)
+- [Backend app](https://github.com/nanosalvu11/Java-Backend)
 
 ### Descripcion
 

@@ -23,6 +23,9 @@ A nivel administrativo, el sistema contará con un panel de control donde los ad
 
 ### Modelo
 
+<img width="1100" height="968" alt="WhatsApp Image 2026-04-14 at 13 44 27" src="https://github.com/user-attachments/assets/43c4d8c7-7bfc-450a-90a9-8e108487a2f0" />
+
+
   * **Usuario:** ID, Nombre, Email, Password, Saldo, Rol (Jugador/Admin).
   * **Juego:** ID, Nombre (Ej: Ruleta, Blackjack), Reglas/Descripción. *(Entidad Simple)*
   * **Mesa:** ID, ID\_Juego, Apuesta\_Minima, Apuesta\_Maxima, Estado. *(Entidad Dependiente de Juego)*
